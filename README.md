@@ -1,3 +1,7 @@
+# 适配0.57.1
+    compileSdkVersion 27
+    buildToolsVersion "27.0.3"
+
 ## React Native Orientation
 [![npm version](https://badge.fury.io/js/react-native-orientation.svg)](https://badge.fury.io/js/react-native-orientation)
 
